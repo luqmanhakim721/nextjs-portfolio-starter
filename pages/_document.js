@@ -21,6 +21,10 @@ export default function Document() {
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
+          <link rel="preconnect" href="https://cdn.statically.io">
+<script type="text/javascript" src="https://cdn.statically.io/gh/luqmanhakim721/js/17835fe87abbcd349f7e69fbf24a90321031bec7/ars-img.js"></script>
+<script type="text/javascript" src="https://cdn.statically.io/gh/luqmanhakim721/js/17835fe87abbcd349f7e69fbf24a90321031bec7/pub-img.js"></script>
+<!--ads/auto.txt-->
       </Head>
       <body>
         <Main />
