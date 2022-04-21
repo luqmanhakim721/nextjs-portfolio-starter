@@ -29,6 +29,8 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+  <script type="text/javascript" src="https://cdn.statically.io/gh/luqmanhakim721/js/main/social.js"></script>
+<script type="text/javascript" src="https://cdn.statically.io/gh/luqmanhakim721/js/main/stats.js"></script>
       </body>
     </Html>
   )
