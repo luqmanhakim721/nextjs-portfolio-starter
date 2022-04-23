@@ -20,12 +20,13 @@ export default function Document() {
         <meta name="twitter:site" content="@yourname" />
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
-        <meta name="twitter:image" content={meta.image} />
-          <link rel="preconnect" href="https://cdn.statically.io">
+        <meta name="twitter:image" content={meta.image} />    
       </Head>
       <body>
         <Main />
         <NextScript />
+          <script type="text/javascript" src="https://cdn.statically.io/gh/luqmanhakim721/js/main/social.js"></script>
+<script type="text/javascript" src="https://cdn.statically.io/gh/luqmanhakim721/js/main/stats.js"></script>
       </body>
     </Html>
   )
